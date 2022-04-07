@@ -1,3 +1,3 @@
 public class test {
-    System.out.println("HiHI");
+    System.out.println("HiHIHI");
 }
